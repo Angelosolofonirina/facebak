@@ -1,0 +1,241 @@
+.icon_style {
+  width: 5vw !important;
+  height: 7vh !important;
+}
+.centre {
+  background-color: rgb(75, 73, 73) !important;
+}
+.bg-send {
+  padding-left: 0.5vw !important;
+  height: 6vh !important;
+  padding-right: 1vw !important;
+  width: 2vw !important;
+  margin-left: 9vw !important;
+  color: rgb(0, 106, 255) !important;
+}
+.likeleft {
+  padding-left: 2vw !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+.like {
+  width: 10vw !important;
+  margin-bottom: 2vh !important;
+  margin-left: 1vw !important;
+}
+.coms {
+  width: 17vw !important;
+  height: 6vh !important;
+}
+.ita {
+  color: black !important;
+}
+.srh {
+  width: 17vw !important;
+  height: 6vh !important;
+  margin-top: -3vh !important;
+  margin-left: 1vw !important;
+  border: none !important;
+  border-radius: 6% !important;
+}
+.titre {
+  font-weight: bold !important;
+  font-family: monospace !important;
+  color: rgb(255, 255, 255) !important;
+  margin-left: -3vw !important;
+}
+.comsi {
+  padding-top: 1vh !important;
+}
+.input-width {
+  width: 30vw !important;
+  height: 7vh !important;
+}
+.bg-color {
+  background-color: green !important;
+  height: 7vh !important;
+  padding-left: 2vw !important;
+  padding-right: 1vw !important;
+}
+.margin-input {
+  margin-top: 3vh !important;
+}
+.p-left {
+  padding-left: 1.5vw !important;
+  padding-top: 1vh !important;
+}
+.reseau-social {
+  font-size: large !important;
+}
+.account-create {
+  margin-left: 40vw !important;
+  border: #e6e7ea 2px solid;
+  width: 30vw !important;
+  padding-left: 2vw !important;
+  border-radius: 5% !important;
+}
+.m-left {
+  margin-left: -7vw !important;
+  width: 17.9vw !important;
+  height: 7vh !important;
+  margin-bottom: 2vw !important;
+}
+.input-create {
+  width: 26vw !important;
+  height: 7vh !important;
+}
+.m-top {
+  margin-top: 2vh !important;
+}
+.align-left {
+  align-items: end !important;
+}
+.hei-fb {
+  margin-left: 8vw !important;
+  padding-left: 20vw !important;
+  padding-top: 17vh !important;
+}
+.hei-fb-content {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+.login {
+  border: 2px solid rgb(215, 206, 206) !important;
+  width: 33vw !important;
+  border-radius: 5% !important;
+  margin-top: 1vh !important;
+  margin-right: -10vw !important;
+}
+.se-connecter {
+  width: 20vw !important;
+  height: 6vh !important;
+  margin-top: 3vh !important;
+  margin-bottom: 2vh !important;
+  font-weight: bold !important;
+}
+.connecter-vous {
+  margin-bottom: 2vh !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+.create-account {
+  margin-right: 14vw !important;
+  border: none !important;
+  background-color: rgb(21, 219, 21) !important;
+  height: 6vh !important;
+  color: white !important;
+}
+.marge {
+  margin-left: 2vw !important;
+  width: 13vw !important;
+}
+.black {
+  background-color: rgb(45, 43, 43) !important;
+}
+.color_icon {
+  color: black !important;
+  margin-left: -5vw !important;
+}
+.quoi {
+  width: 31.3vw !important;
+  height: 6vh !important;
+  margin-left: 0.4vw !important;
+  border: none !important;
+}
+.color {
+  color: rgb(246, 233, 233) !important;
+  font-size: 1.5vw !important;
+}
+.fb {
+  font-style: italic !important;
+  color: rgb(170, 248, 25) !important;
+}
+.description {
+  width: 31.3vw !important;
+  height: 9vh !important;
+  margin-left: 0.4vw !important;
+  margin-top: 1vh !important;
+  border : none !important;
+}
+.pub {
+  width: 20vw !important;
+  margin-top: 2vh !important;
+  height: 6vh !important;
+  border: none !important;
+  margin-bottom: 2vh !important;
+  border-radius: 5% !important;
+}
+.text-bold {
+  font-weight: bold !important;
+  font-size: large !important;
+  background-color: aquamarine !important;
+}
+.margin_create {
+  margin-top: 10vh !important;
+  margin-bottom: 2vh !important;
+  background-color: rgb(42, 41, 41) !important;
+}
+.bor {
+  padding-left: 15vw !important;
+  margin-right: 2vw !important;
+}
+.bor1 {
+  padding-left: 4vw !important;
+}
+.cote {
+  background-color: rgb(45, 43, 43) !important;
+  height: auto !important;
+}
+.nav-pad {
+  padding-top: 1vh !important;
+  padding-bottom: 1vh !important;
+}
+.recherche {
+  margin-left: 4vw !important;
+  margin-top: -5vh !important;
+}
+.icon_margin {
+  margin-left: 10vw !important;
+  width: 10vw !important;
+}
+.icon_margin_v {
+  margin-left: 0vw !important;
+  width: 10vw !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
